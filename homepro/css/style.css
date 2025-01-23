@@ -1322,6 +1322,9 @@ body {
     -webkit-column-gap: 8rem;
     -moz-column-gap: 8rem;
     column-gap: 8rem
+     -webkit-row-gap: 1.875rem;
+    -moz-row-gap: 1.875rem;
+    row-gap: 1.875rem
   }
   .hero {
     padding-bottom: 3.75rem
