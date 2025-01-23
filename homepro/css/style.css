@@ -2226,13 +2226,13 @@ body {
     min-height: clamp(3rem ,2.7217391304rem + 1.3913043478vw ,4rem)
   }
   .button--icon {
-    padding-right: clamp(.5rem ,.5rem + 0 ,.5rem)
+    padding-right: clamp(.5rem ,.5rem  ,.5rem)
   }
   .button--icon {
-    padding-top: clamp(.5rem ,.5rem + 0 ,.5rem)
+    padding-top: clamp(.5rem ,.5rem  ,.5rem)
   }
   .button--icon {
-    padding-bottom: clamp(.5rem ,.5rem + 0 ,.5rem)
+    padding-bottom: clamp(.5rem ,.5rem  ,.5rem)
   }
   .button--icon span {
     gap: clamp(.75rem ,.6804347826rem + .347826087vw ,1rem)
@@ -2343,7 +2343,7 @@ body {
     bottom: clamp(-1rem ,-1.2434782609rem + 1.2173913043vw ,-.125rem)
   }
   .hero::before {
-    height: clamp(2.8125rem ,2.8125rem + 0 ,2.8125rem)
+    height: clamp(2.8125rem ,2.8125rem  ,2.8125rem)
   }
   .hero::before {
     width: clamp(4.6875rem ,-3.5733695652rem + 41.3043478261vw ,34.375rem)
@@ -2352,7 +2352,7 @@ body {
     bottom: clamp(-1rem ,-1.2434782609rem + 1.2173913043vw ,-.125rem)
   }
   .hero::after {
-    height: clamp(2.8125rem ,2.8125rem + 0 ,2.8125rem)
+    height: clamp(2.8125rem ,2.8125rem  ,2.8125rem)
   }
   .hero::after {
     width: clamp(4.6875rem ,-3.5733695652rem + 41.3043478261vw ,34.375rem)
